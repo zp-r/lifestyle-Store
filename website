@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Lifestyle Store</title>
+       <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css">
+    <script type="text/javascript" src="bootstrap/js/jquery-3.5.1.min.js" ></script>
+    
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css.css" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="index.html" class="navbar-brand">Lifestyle Store</a>
+                </div>
+                <div class="collapse navbar-collapse" id="nav">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="signup.html"><span class="glyphicon glyphicon-user"></span>Sign up </a></li>
+                        <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                    </ul>
+                </div>  
+            </div>   
+        </nav>  
+    <center><div id="banner-image">
+            
+                <div class="container">
+               <div class="inner-banner-image" >
+                    <div id="banner-content">  
+                        <h1> We Sell Lifestyle </h1> 
+                        <p>     Flat 40% OFF on premium brands</p>
+                        <a href="products.html" class="btn btn-danger btn-lg active">Shop Now</a>
+                    </div>
+                    
+                </div>    
+                </div>
+       </div>
+        </center>
+    <footer>
+            <div class="container">
+                <center> 
+                <p> Copyright &#169 Lifestyle Store. All Rights Reserved| Contact Us: +91 90000 00000  </p>
+                </center>
+            </div>
+            
+            
+            
+        </footer>
+    </body>
+</html>
